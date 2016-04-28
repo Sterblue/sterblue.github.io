@@ -1,107 +1,188 @@
 ---
 layout: landing
 ---
-				<!-- Banner -->
-					<section id="banner">
-						<div class="inner">
-							<h2>{{ site.title }}</h2>
-							<p>{{ site.description | markdownify }}</p>
+<!-- Banner -->
+<section id="banner">
+	<div class="inner">
+		<!-- <p id="cursive">Automate your inspections</p> -->
+		<!-- <h2>{{ site.title }}</h2> -->
+		<img src="images/logosource.svg" alt="Sterblue"/>
+		<p>Smart Data, Far away</p>
+		<p>Automated Infrastructure Inspection</p>
+		<p>Integrated UAV &amp; cloud solutions</p>
+		<ul class="actions">
+			<li><a href="#contact" class="button special scrolly">Get in touch</a></li>
+		</ul>
+	</div>
+	<a href="#presentation" class="more scrolly">Learn more</a>
+</section>
+
+<!-- One -->
+<section id="presentation" class="wrapper style5 special">
+	<div class="inner">
+		<header>
+			<h2>High-performance inspection</h2>
+			<!-- <span class="image left"><img src="images/profil.jpg" alt="" /></span> -->
+<p>Sterblue develops inspection solutions for power lines, onshore and offshore wind turbines. Our solutions package together efficient UAV configurations, advanced navigation technologies, automatic defect detection and deep business knowledge !</p>
+		</header>
+
+
+	<ul class="features">
+			<li class="icon fa-magic">
+				<h3>Automated</h3>
+				<p>Our inspection solutions use specific navigation algorithms that automatically adapt to the physical layout of the structures to inspect as well as application-specific constraints.</p>
+			</li>
+			<li class="icon fa-battery-full">
+				<h3>Efficient</h3>
+				<p>Our UAVs are designed from the ground up with efficiency in mind, resulting in long ranges and flight times that give the flexibility your inspections need</p>
+			</li>
+			<li class="icon fa-wrench">
+				<h3>Operational</h3>
+				<p>Each mission is performed using the specific set of sensors that are adapted to your domain, providing the data you need to ensure a perfect diagnostic</p>
+			</li>
+			<li class="icon fa-graduation-cap">
+				<h3>Smart</h3>
+				<p>Our data processing solutions are built using state-of-the-art artificial intelligence techniques, providing the precise insights you need.</p>
+			</li>
+		</ul>
+
+		<!-- <ul class="icons major">
+								<li><span class="icon fa-heartbeat major style1"><span class="label">Lorem</span></span></li>
+								<li><span class="icon fa-child major style2"><span class="label">Ipsum</span></span></li>
+								<li><span class="icon fa-thumbs-up major style3"><span class="label">Dolor</span></span></li>
+								<li><span class="icon fa-bolt major style4"><span class="label">Dolor</span></span></li>
+							</ul> -->
+	</div>
+</section>
+
+
+
+<section id="applications" class="wrapper style2 special">
+	<!-- <div class="inner"> -->
+	<header>
+		<h2>Applications</h2>
+		<p>Sterblue focuses on providing the best solutions to the renewable energy sector</p>
+	</header>
+</section>
+
+<section class="wrapper style2 alt">
+
+	<section class="spotlight">
+		<div class="image"><img src="images/OnShoreWindTurbine.jpg" alt="onshore wind turbine" /></div>
+		<div class="content">
+			<h4>Onshore wind power</h4>
+			<p>The path planning and detection algorithms developped at Sterblue allow fast, automated and exhaustive visual inspections of wind turbines structure.</p>
+		</div>
+	</section>
+
+	<section class="spotlight">
+		<div class="image"><img src="images/OffShoreWindTurbine.jpg" alt="offshore wind turbine" /></div>
+		<div class="content">
+			<h4>Offshore wind power</h4>
+			<p>Our long-endurance UAVs allow automated inspection of Wind Farms, up to 25km offshore.</p>
+		</div>
+	</section>
+
+	<section class="spotlight">
+		<div class="image"><img src="images/PowerLines.jpg" alt="power lines" /></div>
+		<div class="content">
+			<h4>Power lines</h4>
+			<p>Sterblue develops state-of-the art detection algorithms that allows to assess the structural health of power line pylons and equipment, including corrosion, wear, paint defects and electrical anomalies.</p>
+		</div>
+	</section>
+	<!-- </div> -->
+</section>
+
+
+
+
+<section id="awards" class="wrapper style5 special">
+	<header>
+		<h2>Award-winning solutions</h2>
+		<p>Our approach has been praized and awarded on several occasions</p>
+	</header>
+	<section >
+		<div class="image"><img src="images/audacity.png" alt="audacity awards 2015" style="max-width:100%;width:400px;height=100px;"/></div>
+		<div class="content">
+			<p>1st Prize at Audacity Awards 2015 in the greentech category</p>
+		</div>
+	</section>
+
+	<section >
+		<div class="image"><img src="images/coupdepouce.png" alt="coup de pouce 2015" style="max-width:100%;width:400px;height=100px;"/></div>
+		<div class="content">
+			<p>1st Prize at challenge Coup de Pouce 2015 Region Ouest</p>
+		</div>
+	</section>
+
+	<section>
+		<div class="image"><img src="images/enacavico.png" alt="enac avico 2015" style="max-width:100%;width:400px;height=100px;"/></div>
+		<div class="content">
+			<p>1st Prize at the Aeronautical Innovation Challenge ENAC-AVICO 2015</p>
+		</div>
+	</section>
+	<!-- </div> -->
+</section>
+
+
+
+<section id="contact" class="wrapper style4 special">
+	<div class="inner">
+
+		<header>
+			<h2>Get in touch</h2>
+
+		</header>
+
+<p>Let's get in touch ! Feel free to contact us using the following form</p>
+
+<section>
+				<form action="https://formspree.io/contact@sterblue.com" method="POST">
+					<div class="row uniform">
+						<div class="6u 12u$(xsmall)">
+							<input type="text" name="name" value="" placeholder="Your Name" />
+						</div>
+						<div class="6u$ 12u$(xsmall)">
+							<input type="email" name="_replyto" value="" placeholder="Your Email" />
+						</div>
+						<div class="12u$">
+							<textarea name="message" placeholder="Your message" rows="6"></textarea>
+						</div>
+
+						<div class="12u$">
+						<input type="hidden" name="_subject" value="Message from website" />
+  					  <input type="text" name="_gotcha" style="display:none" />
+							<!-- <input type="hidden" name="_next" value="//www.sterblue.com/thanks.html" /> -->
+							<input type="hidden" name="_next" value="#" />
 							<ul class="actions">
-								<li><a href="#" class="button special">Activate</a></li>
+								<li><input type="submit" value="Send" class="special"/></li>
+								<li><input type="reset" value="Reset" /></li>
 							</ul>
 						</div>
-						<a href="#one" class="more scrolly">Learn More</a>
-					</section>
+					</div>
+				</form>
+			</section>
+<hr/>
 
-				<!-- One -->
-					<section id="one" class="wrapper style1 special">
-						<div class="inner">
-							<header class="major">
-								<h2>Arcu aliquet vel lobortis ata nisl<br />
-								eget augue amet aliquet nisl cep donec</h2>
-								<p>Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend<br />
-								fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.</p>
-							</header>
-							<ul class="icons major">
-								<li><span class="icon fa-diamond major style1"><span class="label">Lorem</span></span></li>
-								<li><span class="icon fa-heart-o major style2"><span class="label">Ipsum</span></span></li>
-								<li><span class="icon fa-code major style3"><span class="label">Dolor</span></span></li>
-							</ul>
-						</div>
-					</section>
+<p>Sterblue is also available through the following channels</p>
 
-				<!-- Two -->
-					<section id="two" class="wrapper alt style2">
-						<section class="spotlight">
-							<div class="image"><img src="images/pic01.jpg" alt="" /></div><div class="content">
-								<h2>Magna primis lobortis<br />
-								sed ullamcorper</h2>
-								<p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
-							</div>
-						</section>
-						<section class="spotlight">
-							<div class="image"><img src="images/pic02.jpg" alt="" /></div><div class="content">
-								<h2>Tortor dolore feugiat<br />
-								elementum magna</h2>
-								<p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
-							</div>
-						</section>
-						<section class="spotlight">
-							<div class="image"><img src="images/pic03.jpg" alt="" /></div><div class="content">
-								<h2>Augue eleifend aliquet<br />
-								sed condimentum</h2>
-								<p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
-							</div>
-						</section>
-					</section>
+		<ul class="actions vertical">
+			<li>
+				<a target="_blank" href="tel:+33251858765"> <i class="fa fa-phone" aria-hidden="true"></i> +33 2 51 85 87 65</a>
+			</li>
+			<li><a target="_blank" href="mailto:contact@sterblue.com?Subject=Message%20from%20website" ><i class="fa fa-envelope" aria-hidden="true"></i> contact@sterblue.com</a></li>
+			<li><a target="_blank" href="https://www.facebook.com/Sterblue.SAS"><i class="fa fa-facebook" aria-hidden="true"></i> Sterblue</a></li>
+<li><a target="_blank" href="https://www.linkedin.com/company/sterblue"><i class="fa fa-linkedin" aria-hidden="true"></i> Sterblue</a></li>
+			<li><i class="fa fa-map-marker" aria-hidden="true"></i> <a href="https://www.google.com/maps/place/Incubateur+Mines+Nantes/@47.282456,-1.52021,16z/data=!4m2!3m1!1s0x0:0xeec8958363194652?ll=47.282456,-1.52021&z=16&t=m&hl=fr-FR&gl=FR&mapclient=embed&cid=17206166767904835154">2 rue Alfred Kastler, CS 40617, 44306 Nantes Cedex 3</a></li>
+			<li><i class="fa fa-bus" aria-hidden="true"></i> Line 6 and Line 75, stop at "Chantrerie Grandes Ecoles"</li>
+			<li><i class="fa fa-car" aria-hidden="true"></i> Car park nearby</li>
+			<li><i class="fa fa-wheelchair" aria-hidden="true"></i> Accessible to people with reduced mobility</li>
+		</ul>
 
-				<!-- Three -->
-					<section id="three" class="wrapper style3 special">
-						<div class="inner">
-							<header class="major">
-								<h2>Accumsan mus tortor nunc aliquet</h2>
-								<p>Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend<br />
-								fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.</p>
-							</header>
-							<ul class="features">
-								<li class="icon fa-paper-plane-o">
-									<h3>Arcu accumsan</h3>
-									<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
-								</li>
-								<li class="icon fa-laptop">
-									<h3>Ac Augue Eget</h3>
-									<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
-								</li>
-								<li class="icon fa-code">
-									<h3>Mus Scelerisque</h3>
-									<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
-								</li>
-								<li class="icon fa-headphones">
-									<h3>Mauris Imperdiet</h3>
-									<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
-								</li>
-								<li class="icon fa-heart-o">
-									<h3>Aenean Primis</h3>
-									<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
-								</li>
-								<li class="icon fa-flag-o">
-									<h3>Tortor Ut</h3>
-									<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
-								</li>
-							</ul>
-						</div>
-					</section>
 
-				<!-- CTA -->
-					<section id="cta" class="wrapper style4">
-						<div class="inner">
-							<header>
-								<h2>Arcue ut vel commodo</h2>
-								<p>Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend fringilla.</p>
-							</header>
-							<ul class="actions vertical">
-								<li><a href="#" class="button fit special">Activate</a></li>
-								<li><a href="#" class="button fit">Learn More</a></li>
-							</ul>
-						</div>
-					</section>
+
+
+		<iframe class="image fit" width="100%" height="400px" frameborder="0" style="border:0" allowfullscreen="" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2706.6313917234!2d-1.5223983839776865!3d47.28245971830551!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4805f02a9db73f75%3A0xeec8958363194652!2sIncubateur+Mines+Nantes!5e0!3m2!1sfr!2sfr!4v1461860503935"></iframe>
+
+	</div>
+</section>

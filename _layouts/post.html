@@ -1,0 +1,28 @@
+---
+layout: default
+---
+<article id="main">
+
+  <header>
+    <h2>{{ page.title }}</h2>
+    <span>
+      <i class="fa fa-clock-o" aria-hidden="true"></i>
+      <time datetime="{{page.date|date:"%F"}}"> {{page.date|date:"%d %b %Y"}}</time>
+    </span>
+    <span>
+      <i class="fa fa-tag" aria-hidden="true"></i>
+      {{ page.categories | category_links }}
+
+    </span>
+    <span>
+      {% if page.author %}<i class="fa fa-user" aria-hidden="true"></i>{{page.author}}{% else %}<i class="fa fa-user" aria-hidden="true"></i>{{site.author}}{% endif%}
+  </span>
+  </header>
+
+  <section class="wrapper style5">
+    <div class="inner">
+      {{ content }}
+    </div>
+  </section>
+
+</article>
