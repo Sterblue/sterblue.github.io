@@ -2,6 +2,10 @@
 
 This site is visible at [www.sterblue.com](www.sterblue.com).
 
+To launch it locally, install jekyll and then
+
+    jekyll serve
+
 It is based on a Jekyll port of the Spectral theme by HTML5 UP.
 Find the original non-jekyll theme at: http://html5up.net/
 The jekyll port is at: https://github.com/arkadianriver/spectral
