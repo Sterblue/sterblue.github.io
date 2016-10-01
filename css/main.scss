@@ -1882,3 +1882,10 @@ section.post-content {
 .blogpost img {
 	max-width:100%;
 }
+
+// Size of Zoho chat frame
+#zldchatiframe {
+	overflow: hidden;
+ 	width: 100%;
+ 	height: 400px !important
+}
