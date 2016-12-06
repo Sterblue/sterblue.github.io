@@ -89,3 +89,5 @@ simplement un mail avec ton CV à <people@sterblue.com> en mettant bien
 en valeur tes expériences en lien avec ce sujet.
 
 [Lien vers l'offre au format PDF](/jobs/pdf/2017-03-01-internship-design-mechatronics.pdf)
+
+Reference : **2017-03-01-internship-design-mechatronics**
