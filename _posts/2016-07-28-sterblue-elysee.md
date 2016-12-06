@@ -9,4 +9,4 @@ Last Friday, Sterblue was invited at [Palais de l'Elysée](http://www.elysee.fr/
 
 After a speech from President François Hollande, Sterblue could exchange with many other green and blue innovative project leaders!
 
-![Group Photo at the French Ministry of Ecology](images/elyseeGreenTechVerte.jpg)
+![Group Photo at the French Ministry of Ecology](/images/elyseeGreenTechVerte.jpg)
