@@ -4,21 +4,25 @@
   <nav id="nav">
     <ul>
       <li class="special">
-        <a href="blog.html" class="icon fa-newspaper-o inline-menu"> Blog</a>
-        <div id="menu">
+        <a href="/jobs" class="icon fa-graduation-cap inline-menu"> Jobs</a>
+      </li>
+      <li class="special">
+        <a href="/blog" class="icon fa-newspaper-o inline-menu"> Blog</a>
+      </li>
+<!-- <li class="special">
+         <div id="menu">
           <ul>
             <li><a class="icon fa-home" href="index.html"> Home</a></li>
+            <li><a class="icon fa-graduation-cap" href="jobs.html"> Jobs</a></li>
             <li><a class="icon fa-newspaper-o" href="blog.html"> Blog</a></li>
             {% for my_page in site.pages %}
             {% if my_page.title %}
             <li><a href="{{ my_page.url | prepend: site.baseurl }}" >{{ my_page.title }}</a></li>
             {% endif %}
             {% endfor %}
-            <!-- <li><a href="{{ "/feed.xml" | prepend: site.baseurl }}"
-                   class="icon fa-feed"> RSS Feed</a></li> -->
           </ul>
         </div>
-      </li>
+      </li> -->
     </ul>
   </nav>
 </header>
