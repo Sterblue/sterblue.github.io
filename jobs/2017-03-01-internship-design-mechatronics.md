@@ -69,7 +69,7 @@ Ton profil sera en phase avec les attentes de cet ambitieux projet si:
 -   Tu es autonome dans ton travail et tu veux prendre de belles
     responsabilités dans une start-up dynamique!
 
--   tu as un bon relationnel et tes blagues sont plutôt drôles ;)
+-   Tu as un bon relationnel et tes blagues sont plutôt drôles 😉
 
 Conditions
 ----------
