@@ -106,3 +106,5 @@ Contact
 Nous ne sommes pas des acharnés de la lettre de motivation, envoie
 simplement un mail avec ton CV à <people@sterblue.com> en
 mettant bien en valeur tes expériences en lien avec ce sujet
+
+[Lien vers l'offre au format PDF](/jobs/pdf/2017-03-01-internship-machine-learning-vision.pdf)
