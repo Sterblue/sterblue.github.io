@@ -91,7 +91,7 @@ En bonus, tu es définitivement fait pour travailler avec nous si:
 Conditions
 ----------
 
--   Durée de 6 mois à partir de mars 2017
+-   Durée de 6 mois démarrant entre janvier et avril 2017
 
 -   Localisation à l’incubateur de l’école des mines de Nantes
 

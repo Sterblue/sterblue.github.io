@@ -74,7 +74,7 @@ Ton profil sera en phase avec les attentes de cet ambitieux projet si:
 Conditions
 ----------
 
--   Durée de 6 mois dès que possible
+-   Durée de 6 mois démarrant entre janvier et avril 2017
 
 -   Localisation : Incubateur de l’école des Mines de Nantes
 
