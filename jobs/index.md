@@ -12,4 +12,3 @@ Afin de fournir la meilleure solution d'inspection automatique du marché, Sterb
 
   - [2017 - 6 mois - Full stack web developer](/jobs/2017-03-01-internship-full-stack-web-developer)
   - [2017 - 6 mois - Deep learning pour inspection automatique par drone](/jobs/2017-03-01-internship-machine-learning-vision)
-  - [2017 - 6 mois - Developpement mécatronique très fun](/jobs/2017-03-01-internship-design-mechatronics)

@@ -5,8 +5,11 @@ category: General
 author: Vincent Lecrubier
 ---
 
+Cette offre a été pourvue et n'est plus disponible
+==================================================
 
-Stage mécatronique très fun
+
+~~Stage mécatronique très fun~~
 ===========================
 
 L’entreprise
