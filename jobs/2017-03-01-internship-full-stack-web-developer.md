@@ -99,5 +99,5 @@ mettant bien en valeur tes expériences en lien avec ce sujet
 
 [Lien vers l'offre au format PDF](/jobs/pdf/2017-04-11-internship-full-stack-web-developer.pdf)
 
-Reference : **2017-04-11-apprenticeship-full-stack-web-developer**
+Reference : **2017-04-11-internship-full-stack-web-developer**
 
