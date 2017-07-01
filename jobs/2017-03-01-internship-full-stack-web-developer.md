@@ -12,30 +12,24 @@ L’entreprise
 ------------
 
 [Sterblue](http://www.sterblue.com) est une start-up Nantaise qui
-développe des solutions d’inspection autonome des infrastructures
-éoliennes et électriques. Pour cela Sterblue développe des **drones
-innovants**, des algorithmes de navigation et de traitement d’images
-ainsi que la **plateforme Cloud Sterblue**.
+développe des solutions d’inspection autonome des sites sensibles, des éoliennes et des réseaux électriques.
+Sterblue développe notamment un logiciel unique de navigation autonome
+aux abords des structures complexes, une plateforme de traitement de donnnées avec nos
+algorithmes d'intelligence artificiels. L'ensemble est basé sur le Cloud Sterblue. 
+
 
 Sterblue a été créée par **Geoffrey**, **Nicolas** et **Vincent** en
-Janvier 2016 et a remporté plusieurs concours d’innovation, qui ont
-permis à Sterblue de se financer, de suivre le programme d’accélération
-du technopôle de Nantes, et de bénéficier de bureaux au sein de
-l’incubateur des Mines de Nantes. Sterblue collabore avec d’autres
-entreprises et grandes écoles, au sein desquelles se déroulent plusieurs
-projets sur lesquels travaillent une dizaine d’étudiants. L’équipe
-Sterblue compte aujourd’hui 4 membres, depuis l’intégration de **Nacho**
-à l’issue de son stage de 6 mois dans l’entreprise.
+Janvier 2016 et a remporté plusieurs concours d’innovation. L'équipe compte aujourd'hui 7 personnes
+basées à l'incubateur d'entreprises de L'institut Mines Telecom Atlantique. 
 
 Missions
 --------
 
-Ta mission sera de continuer avec Vincent le développement de notre
-plate forme cloud. Cette plate forme permet à nos clients de planifier
+Ta mission sera de continuer le développement de notre
+plateforme cloud avec notre CTO, Vincent. Cette plateforme permet à nos clients de planifier
 les **missions des drones**, de les suivre en direct, d’accéder aux
 données d’inspection, aux rapports d’**analyse automatique** et à tout
-un ensemble de jolis graphiques et modèles 3D ! Notre cloud est déjà en
-partie opérationnel, il s’agira donc de le développer de manière
+un ensemble de jolis graphiques et modèles 3D ! Notre cloud est opérationnel, il s’agira donc de le développer de manière
 itérative, il y a du boulot:
 
 -   Développement front-end en **ReactJS** et back-end principalement en
@@ -91,9 +85,7 @@ En bonus, tu es définitivement fait pour travailler avec nous si:
 Conditions
 ----------
 
--   Durée de 6 mois démarrant entre janvier et avril 2017
-
--   Localisation à l’incubateur de l’école des mines de Nantes
+-   Localisation à l’incubateur de l'Institut Mines Telecom Atlantique à Nantes
 
 -   Rémunération selon profil, primes sur objectifs, et opportunité
     d’emploi
@@ -102,9 +94,10 @@ Contact
 -------
 
 Nous ne sommes pas des acharnés de la lettre de motivation, envoie
-simplement un mail avec ton CV à <people@sterblue.com> en
+simplement un mail avec ton CV à <contact@sterblue.com> en
 mettant bien en valeur tes expériences en lien avec ce sujet
 
-[Lien vers l'offre au format PDF](/jobs/pdf/2017-03-01-internship-full-stack-web-developer.pdf)
+[Lien vers l'offre au format PDF](/jobs/pdf/2017-04-11-internship-full-stack-web-developer.pdf)
 
-Reference : **2017-03-01-internship-full-stack-web-developer**
+Reference : **2017-04-11-apprenticeship-full-stack-web-developer**
+
