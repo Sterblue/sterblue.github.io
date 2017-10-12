@@ -82,7 +82,7 @@ En bonus, tu es définitivement fait pour travailler avec nous si:
 Conditions
 ----------
 
--   CDD de 10 mois démarrant entre janvier et avril 2017 (possibilité de passage en CDI ensuite)
+-   CDD de 10 mois démarrant dès que possible (possibilité de passage en CDI ensuite)
 
 -   Localisation à l’incubateur de l'institut Mines Telecom de Nantes avec 20 autres start-up
 
@@ -94,7 +94,5 @@ Contact
 Nous ne sommes pas des acharnés de la lettre de motivation, envoie
 simplement un mail avec ton CV à <people@sterblue.com> en
 mettant bien en valeur tes expériences en lien avec ce sujet
-
-[Lien vers l'offre au format PDF](/jobs/pdf/2017-10-12-full-stack-web-developer.pdf)
 
 Reference : **2017-10-12-position-full-stack-web-developer**
