@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: Jobs and internships
 category: General
